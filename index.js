@@ -1,1 +1,1 @@
-let check = check;
+let check = check1;
