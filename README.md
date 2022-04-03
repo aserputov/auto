@@ -63,7 +63,7 @@ A configuration file will contain:
 
 ## Development
 
-> :warning: visit [`CONTRIBUTING`]()
+> :warning: visit [`CONTRIBUTING`](https://github.com/aserputov/auto/blob/main/CONTRIBUTING.md)
 
 ## Contact
 
