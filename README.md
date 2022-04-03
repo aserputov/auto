@@ -8,14 +8,14 @@
 <!-- [![Crates.io](https://img.shields.io/crates/v/hurl.svg)](https://crates.io/crates/hurl)
 [![documentation](https://img.shields.io/badge/-documentation-informational)](https://hurl.dev) -->
 
-## ℹ️ Introduction
+## ℹ Introduction
 
 **auto-commiter** - bash script, maybe future npm package to make auto commits into Git each time frame.(2/5/10/15 minutes)
 Also, maybe in future will work with config file. 
 
 Current version:Release `0.01`
 
-## ℹ️ Installation
+## ℹ Installation
 
 `not available yet`
 NPM
