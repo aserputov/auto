@@ -15,7 +15,7 @@ Current version: Release `0.0.3`
 
 For, now works perfectly with: `npm run commit.`
 
-> Please, if you have any ideas how to make it better please contact me. Or create an issue. Thank you!
+> :warning: Please, if you have any ideas how to make it better please contact me. Or create an issue. Thank you!
 
 ## Installation
 
