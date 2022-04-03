@@ -8,14 +8,14 @@
 <!-- [![Crates.io](https://img.shields.io/crates/v/hurl.svg)](https://crates.io/crates/hurl)
 [![documentation](https://img.shields.io/badge/-documentation-informational)](https://hurl.dev) -->
 
-## ℹ Introduction
+## Introduction
 
 **auto-commiter** - bash script, maybe future npm package to make auto commits into Git each time frame.(2/5/10/15 minutes)
 Also, maybe in future will work with config file. 
 
 Current version:Release `0.01`
 
-## ℹ Installation
+## Installation
 
 `not available yet`
 NPM
@@ -30,7 +30,7 @@ HomeBrew
  brew i auto-commiter
 ```
 
-## ℹ️ Usage
+## Usage
 
 Step1. Install library 
 Step2. `npm run commit`
@@ -38,12 +38,12 @@ Step2. `npm run commit`
 Step1. Enable security of Bash execution `chmod -x commit.sh`
 Step2. ./commit.sh
 
-## ℹ️ Features
+## Features
 
 Yet, to be installed.
 
-## ℹ️ Option Features
-## ℹ️ Configuration file
+## Option Features
+## Configuration file
 
 Configuration file will contain:
 
@@ -55,21 +55,21 @@ Configuration file will contain:
 }
 ```
 
-## ℹ️ Development
+## Development
 
 > :warning: visit [`CONTRIBUTING`]()
 
-## ℹ️ Contact
+## Contact
 
 Anatoliy Serputov [aserputov](https://github.com/aserputov)
 
-## ℹ️ Links
+## Links
 
 - [`Blog`](https://dev.to/aserputoff)
 
 - [`Twitter`](https://twitter.com/aserputoff)
 
-## ℹ️ License
+## License
 
 MIT License
 
