@@ -17,70 +17,47 @@ Current version:Release `0.01`
 
 ## ℹ️ Installation
 
+`not available yet`
 NPM
 
 ```bash
-  ./commit.sh
-```
-
-Binary
-
-```bash
-  npm install
+  npm i auto-commit
 ```
 
 HomeBrew
-
+`not available yet`
 ```bash
-  GitHub repository not notable enough (<30 forks, <30 watchers and <75 stars)
+ brew i auto-commiter
 ```
-
-[read more](https://www.npmjs.com/package/qck-ssg-final)
 
 ## ℹ️ Usage
 
-example 1: `node . --input /SherlocksStories/testmd.md.`
+Step1. Install library 
+Step2. `npm run commit`
 
-example 2: `node . --input same.txt`
-
-example 3: [Static Website](https://cli-ssg-qck-cmp74iuwg-aserputov.vercel.app)
+Step1. Enable security of Bash execution `chmod -x commit.sh`
+Step2. ./commit.sh
 
 ## ℹ️ Features
 
-- `node . -- version (-v) `
-
-- `node . -- help (-h)`
-
-- `node . -- input (-i)`
-
-- `node . -- input (-i) --stylesheet(-s)`
-
-- `node . -- config (-c)`
+Yet, to be installed.
 
 ## ℹ️ Option Features
-
-- `Prettier included`
-
-- Populated the `<title>...</title>`
-
-- Automatically generate an `index.html` with all the links.
-
-- Generates markdown file to html file.
-
 ## ℹ️ Configuration file
 
-Configuration file should contain the following attributes: _input_, _stylesheet_
+Configuration file will contain:
 
 ```
 {
-    "input":"SherlocksStories/testmd.md",
-    "stylesheet": "https://cdnjs.cloudflare.com/ajax/libs/tufte-css/1.8.0/tufte.min.css"
+    repo: "name"
+    Also maybe create repo from the repo name or push to the existing one. Yet, to be discovered.
+
 }
 ```
 
 ## ℹ️ Development
 
-> :warning: visit [`CONTRIBUTING`](https://github.com/aserputov/QckStaticSiteGenerator/blob/main/CONTRIBUTING.md)!
+> :warning: visit [`CONTRIBUTING`]()
 
 ## ℹ️ Contact
 
@@ -88,9 +65,9 @@ Anatoliy Serputov [aserputov](https://github.com/aserputov)
 
 ## ℹ️ Links
 
-- [`Blog`](https://medium.com/@aserputov/qck-ssg-eb593782b856)
+- [`Blog`](https://dev.to/aserputoff)
 
-- [`Twitter`](https://twitter.com/aserputov)
+- [`Twitter`](https://twitter.com/aserputoff)
 
 ## ℹ️ License
 
