@@ -12,13 +12,12 @@ git add .
 git commit -m "Auto-Commit:$Initial"
 git push -u origin main
 else
-curl -u "aserputov" https://api.github.com/user/repos -d '{"name":"sunday","private":"true"}'
-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
+curl -u "aserputov" https://api.github.com/user/repos -d '{"name":"auto1","private":"true"}'
 git init
 git status
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/aserputov/auto.git
+git remote add origin https://github.com/aserputov/auto1.git
 git push -u origin main
 fi

@@ -17,6 +17,8 @@ For, now works perfectly with: `npm run commit.`
 
 > :warning: Please, if you have any ideas how to make it better contact me. Or create an issue. Thank you!
 
+> :warning: Also, soon will be available: auto-creating pull request: ex. curl -u "aserputov" https://api.github.com/user/repos -d '{"name":"repoName","private":"true"}'
+
 ## Installation
 
 
