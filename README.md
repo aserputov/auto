@@ -11,7 +11,7 @@
 **auto-commiter** - bash script, maybe future npm package to make auto commits into Git each time frame.(2/5/10/15 minutes)
 Also, maybe in future will work with config file. 
 
-Current version:Release `0.0.3`
+Current version: Release `0.0.3`
 
 For, now works perfectly with: `npm run commit`
 
