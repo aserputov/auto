@@ -1,33 +1,35 @@
-<!-- # auto-commiter.  -->
+<!-- # auto-commiter. -->
 <h1 align="center">
-  <p align="center">🖇 auto-commiter</p>
-  <!-- <a href="https://github.com/aserputov/QckStaticSiteGenerator"><img src="https://github.com/aserputov/QckStaticSiteGenerator/blob/main/assets/Screen%20Shot%202021-11-23%20at%201.54.27%20AM.png?raw=true" alt="Docusaurus" height="100px"></a> -->
+ <p align="center">🖇 auto-commiter</p>
+ <!-- <a href="https://github.com/aserputov/QckStaticSiteGenerator"><img src="https://github.com/aserputov/QckStaticSiteGenerator/blob/main/assets/Screen%20Shot%202021-11-23%20at%201.54.27%20AM.png?raw=true" alt="Docusaurus" height="100px"></a> -->
 </h1>
 
 <!-- [![deploy status](https://github.com/Orange-OpenSource/hurl/workflows/CI/badge.svg)](https://github.com/aserputov/Qck/actions) -->
 <!-- [![Crates.io](https://img.shields.io/crates/v/hurl.svg)](https://crates.io/crates/hurl)
 [![documentation](https://img.shields.io/badge/-documentation-informational)](https://hurl.dev) -->
 
-**auto-commiter** - bash script, maybe future npm package to make auto commits into Git each time frame.(2/5/10/15 minutes)
-Also, maybe in future will work with config file. 
+**auto-committer** - bash script, maybe future npm package to make auto commits into Git each time frame. (2/5/10/15 minutes)
+Also, maybe in future will work with the config file. 
 
 Current version: Release `0.0.3`
 
-For, now works perfectly with: `npm run commit`
+For, now works perfectly with: `npm run commit.`
+
+> Please, if you have any ideas how to make it better please contact me. Or create an issue. Thank you!
 
 ## Installation
 
 
 NPM
-`not available yet`
+`not available yet.`
 ```bash
-  npm i auto-commit
+ npm i auto-commit
 ```
 
 HomeBrew
-`not available yet`
+`not available yet.`
 ```bash
- brew i auto-commiter
+ brew i auto-committer
 ```
 
 ## Usage
@@ -49,12 +51,12 @@ Yet, to be installed.
 ## Option Features
 ## Configuration file
 
-Configuration file will contain:
+A configuration file will contain:
 
 ```
 {
-    repo: "name"
-    Also maybe create repo from the repo name or push to the existing one. Yet, to be discovered.
+ repo: "name"
+ Also, maybe create a repo from the repo name or push it to the existing one. Yet, to be discovered.
 
 }
 ```
