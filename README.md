@@ -17,9 +17,9 @@ Current version:Release `0.01`
 
 ## Installation
 
-`not available yet`
-NPM
 
+NPM
+`not available yet`
 ```bash
   npm i auto-commit
 ```
