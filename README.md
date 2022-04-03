@@ -13,6 +13,8 @@ Also, maybe in future will work with config file.
 
 Current version:Release `0.0.3`
 
+For, now works perfectly with: `npm run commit`
+
 ## Installation
 
 
@@ -30,11 +32,15 @@ HomeBrew
 
 ## Usage
 
-Step1. Install library 
-Step2. `npm run commit`
+```Step1. Install library ```
 
-Step1. Enable security of Bash execution `chmod -x commit.sh`
-Step2. ./commit.sh
+```Step2. `npm run commit```
+
+Another option.
+
+```Step1. Enable security of Bash execution `chmod -x commit.sh```
+
+```Step2. ./commit.sh```
 
 ## Features
 
