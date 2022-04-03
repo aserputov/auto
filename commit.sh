@@ -12,6 +12,8 @@ git add .
 git commit -m "Auto-Commit:$Initial"
 git push -u origin main
 else
+curl -u "aserputov" https://api.github.com/user/repos -d '{"name":"sunday","private":"true"}'
+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
 git init
 git status
 git add .
