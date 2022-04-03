@@ -1,18 +1,9 @@
 #!/bin/bash
 echo "Hello World"
 
-pwd
-
-#cd autoCommiter
-
-pwd
-
-ls -a
-
 FILE=.git
 Initial=0
 Initial= $Initial+1
-echo "$FILE"
 
 if [[ -a "./.git" ]]; then
 git status
@@ -20,7 +11,6 @@ sleep 5;
 git add .
 git commit -m "Auto-Commit:$Initial"
 git push -u origin main
-echo "This one"
 else
 git init
 git status
@@ -29,5 +19,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/aserputov/auto.git
 git push -u origin main
-echo "Second one"
 fi
