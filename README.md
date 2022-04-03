@@ -20,7 +20,7 @@ Current version:Release `0.01`
 NPM
 
 ```bash
-  npm i qck-ssg-final
+  ./commit.sh
 ```
 
 Binary
