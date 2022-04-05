@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Hello World"
+echo "Start"
 
 FILE=.git
 Initial=0
@@ -21,3 +21,5 @@ git branch -M main
 git remote add origin https://github.com/aserputov/auto1.git
 git push -u origin main
 fi
+
+echo "Finished"
