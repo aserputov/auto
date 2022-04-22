@@ -23,7 +23,7 @@ For, now works perfectly with: `npm run commit`
 
 
 NPM
-`not available yet.`
+`not available yet`
 ```bash
  npm i auto-commit
 ```
