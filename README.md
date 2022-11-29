@@ -38,7 +38,7 @@ HomeBrew
 
 ```Step1. Install library ```
 
-```Step2. `npm run commit```
+```Step2. npm run commit```
 
 Another option.
 
